@@ -14,3 +14,5 @@ provider "aws" {
 resource "aws_s3_bucket" "devops_bucket" {
   bucket = "ashish-devops-practice-2026-unique123"
 }
+
+# Testing automatic Jenkins pipeline trigger
